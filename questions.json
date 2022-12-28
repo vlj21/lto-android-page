@@ -22,7 +22,7 @@
         {
             "id": 3,
             "question": "Broken yellow line on the road means:",
-            "questionImgUrl": "../src/question_road_construction.png",
+            "questionImgUrl": "https://vlj21.github.io/lto-android-page/src/question_road_construction.png",
             "choiceOne": "Road under construction",
             "choiceTwo": "Bumpy road",
             "choiceThree": "Slippery road",
