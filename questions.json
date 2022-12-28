@@ -1,0 +1,32 @@
+{
+    "resultCount": 1
+    "results": [
+        {
+            "id": 1,
+            "question": "What is the meaning of green arrow traffic light?",
+            "questionImgUrl": "",
+            "choiceOne": "Allowing vehicles to go right or left",
+            "choiceTwo": "Pedestrians can cross",
+            "choiceThree": "It is prohibited to enter on the direction of the arrow",
+            "correctAnswerIndex": 0
+        },
+        {
+            "id": 2,
+            "question": "Broken yellow line on the road means:",
+            "questionImgUrl": "",
+            "choiceOne": "It is prohibited to overtake on the left or right side",
+            "choiceTwo": "You are allowed to overtake on the right side",
+            "choiceThree": "You are allowed to overtake on the left side",
+            "correctAnswerIndex": 2
+        },
+        {
+            "id": 3,
+            "question": "Broken yellow line on the road means:",
+            "questionImgUrl": "",
+            "choiceOne": "Road under construction",
+            "choiceTwo": "Bumpy road",
+            "choiceThree": "Slippery road",
+            "correctAnswerIndex": 0
+        }
+    ]
+}
