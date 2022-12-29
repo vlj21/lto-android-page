@@ -8,7 +8,8 @@
             "choiceOne": "Allowing vehicles to go right or left",
             "choiceTwo": "Pedestrians can cross",
             "choiceThree": "It is prohibited to enter on the direction of the arrow",
-            "correctAnswerIndex": 0
+            "correctAnswerIndex": 0,
+	    "isTagalog": false
         },
         {
             "id": 2,
@@ -17,7 +18,8 @@
             "choiceOne": "It is prohibited to overtake on the left or right side",
             "choiceTwo": "You are allowed to overtake on the right side",
             "choiceThree": "You are allowed to overtake on the left side",
-            "correctAnswerIndex": 2
+            "correctAnswerIndex": 2,
+	    "isTagalog": false
         },
         {
             "id": 3,
@@ -26,7 +28,8 @@
             "choiceOne": "Road under construction",
             "choiceTwo": "Bumpy road",
             "choiceThree": "Slippery road",
-            "correctAnswerIndex": 0
+            "correctAnswerIndex": 0,
+	    "isTagalog": false
         }
     ]
 }
