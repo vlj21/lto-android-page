@@ -5,31 +5,37 @@
             "id": 1,
             "question": "What is the meaning of green arrow traffic light?",
             "questionImgUrl": "",
-            "choiceOne": "Allowing vehicles to go right or left",
-            "choiceTwo": "Pedestrians can cross",
-            "choiceThree": "It is prohibited to enter on the direction of the arrow",
+            "choices": [
+                "Allowing vehicles to go right or left",
+                "Pedestrians can cross",
+                "It is prohibited to enter on the direction of the arrow"
+            ],
             "correctAnswerIndex": 0,
-	    "isTagalog": false
+            "isTagalog": false
         },
         {
             "id": 2,
             "question": "Broken yellow line on the road means:",
             "questionImgUrl": "",
-            "choiceOne": "It is prohibited to overtake on the left or right side",
-            "choiceTwo": "You are allowed to overtake on the right side",
-            "choiceThree": "You are allowed to overtake on the left side",
+            "choices": [
+                "It is prohibited to overtake on the left or right side",
+                "You are allowed to overtake on the right side",
+                "You are allowed to overtake on the left side"
+            ],
             "correctAnswerIndex": 2,
-	    "isTagalog": false
+            "isTagalog": false
         },
         {
             "id": 3,
             "question": "Broken yellow line on the road means:",
             "questionImgUrl": "https://vlj21.github.io/lto-android-page/src/question_road_construction.png",
-            "choiceOne": "Road under construction",
-            "choiceTwo": "Bumpy road",
-            "choiceThree": "Slippery road",
+            "choices": [
+                "Road under construction",
+                "Bumpy road",
+                "Slippery road"
+            ],
             "correctAnswerIndex": 0,
-	    "isTagalog": false
+            "isTagalog": false
         }
     ]
 }
