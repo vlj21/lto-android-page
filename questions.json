@@ -1914,9 +1914,9 @@
 			"question": "What does this sign indicate?",
 			"questionImgUrl": "img_traffic_10",
 			"choices": [
-				"The distance to the next intersection is 3 meters",
-				"Do not enter if car is more than 3 meters height",
-				"Stop sign 3 meters ahead"
+				"The distance to the next intersection is 3.5 meters",
+				"Do not enter if car is more than 3.5 meters height",
+				"Stop sign 3.5 meters ahead"
 			],
 			"correctAnswerIndex": 1,
 			"isTagalog": false
@@ -2142,9 +2142,9 @@
 			"question": "Which of the following best describes the picture?",
 			"questionImgUrl": "img_traffic_29",
 			"choices": [
-				"Animals cannot cross",
-				"Animal cage",
-				"Animal crossing"
+				"Steep descent ahead",
+				"Landslide warning",
+				"Slippery road ahead"
 			],
 			"correctAnswerIndex": 0,
 			"isTagalog": false
