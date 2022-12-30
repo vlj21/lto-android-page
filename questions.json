@@ -1800,6 +1800,606 @@
 			],
 			"correctAnswerIndex": 0,
 			"isTagalog": true
+		},
+		{
+			"id": 151,
+			"question": "The road sign No Entry is a:",
+			"questionImgUrl": "img_traffic_1",
+			"choices": [
+				"Regulatory sign",
+				"Guide sign",
+				"Warning sign"
+			],
+			"correctAnswerIndex": 0,
+			"isTagalog": false
+		},
+		{
+			"id": 152,
+			"question": "What does this sign indicate?",
+			"questionImgUrl": "img_traffic_2",
+			"choices": [
+				"Road bends, prepare to go right and then left",
+				"Road close ahead, go right",
+				"You may travel beyond 30 kph"
+			],
+			"correctAnswerIndex": 0,
+			"isTagalog": false
+		},
+		{
+			"id": 153,
+			"question": "Single broken line on a two-lane road means:",
+			"questionImgUrl": "img_traffic_3",
+			"choices": [
+				"The speed limit is 80kph",
+				"You cannot overtake",
+				"It separates traffic moving in opposite directions "
+			],
+			"correctAnswerIndex": 2,
+			"isTagalog": false
+		},
+		{
+			"id": 154,
+			"question": "What does this sign indicate?",
+			"questionImgUrl": "img_traffic_4",
+			"choices": [
+				"Motor vehicle cannot load passengers",
+				"Motor vehicle cannot unload passengers",
+				"Motor vehicles cannot load/unload passengers"
+			],
+			"correctAnswerIndex": 2,
+			"isTagalog": false
+		},
+		{
+			"id": 155,
+			"question": "Which of the following best describes the picture?",
+			"questionImgUrl": "img_traffic_5",
+			"choices": [
+				"Bumpy road",
+				"Steep road",
+				"Slippery road"
+			],
+			"correctAnswerIndex": 0,
+			"isTagalog": false
+		},
+		{
+			"id": 156,
+			"question": "What does this sign indicate?",
+			"questionImgUrl": "img_traffic_6",
+			"choices": [
+				"No left turn",
+				"Exit to the left",
+				"One-way to left"
+			],
+			"correctAnswerIndex": 0,
+			"isTagalog": false
+		},
+		{
+			"id": 157,
+			"question": "Which of the following best describes the picture?",
+			"questionImgUrl": "img_traffic_7",
+			"choices": [
+				"No right turn permitted",
+				"No left-turn permitted",
+				"You must not make a U-Turn"
+			],
+			"correctAnswerIndex": 2,
+			"isTagalog": false
+		},
+		{
+			"id": 158,
+			"question": "Which of the following best describes the picture?",
+			"questionImgUrl": "img_traffic_8",
+			"choices": [
+				"Road ends",
+				"Crossroads",
+				"Road goes left or right"
+			],
+			"correctAnswerIndex": 2,
+			"isTagalog": false
+		},
+		{
+			"id": 159,
+			"question": "Which of the following best describes the picture?",
+			"questionImgUrl": "img_traffic_9",
+			"choices": [
+				"Slippery road",
+				"Road construction",
+				"Broken road"
+			],
+			"correctAnswerIndex": 1,
+			"isTagalog": false
+		},
+		{
+			"id": 160,
+			"question": "What does this sign indicate?",
+			"questionImgUrl": "img_traffic_10",
+			"choices": [
+				"The distance to the next intersection is 3 meters",
+				"Do not enter if car is more than 3 meters height",
+				"Stop sign 3 meters ahead"
+			],
+			"correctAnswerIndex": 1,
+			"isTagalog": false
+		},
+		{
+			"id": 161,
+			"question": "Which of the following best describes the picture?",
+			"questionImgUrl": "img_traffic_11",
+			"choices": [
+				"Buses cannot enter",
+				"Trucks cannot enter",
+				"Cars cannot enter"
+			],
+			"correctAnswerIndex": 1,
+			"isTagalog": false
+		},
+		{
+			"id": 162,
+			"question": "Which of the following best describes the picture?",
+			"questionImgUrl": "img_traffic_12",
+			"choices": [
+				"Do not use horn",
+				"No U-turn",
+				"No parking"
+			],
+			"correctAnswerIndex": 0,
+			"isTagalog": false
+		},
+		{
+			"id": 163,
+			"question": "Which of the following best describes the picture?",
+			"questionImgUrl": "img_traffic_13",
+			"choices": [
+				"Intersection warning",
+				"Train cannot pass",
+				"Train track"
+			],
+			"correctAnswerIndex": 2,
+			"isTagalog": false
+		},
+		{
+			"id": 164,
+			"question": "Which of the following best describes the picture?",
+			"questionImgUrl": "img_traffic_14",
+			"choices": [
+				"No entry",
+				"Give way",
+				"Stop"
+			],
+			"correctAnswerIndex": 2,
+			"isTagalog": false
+		},
+		{
+			"id": 165,
+			"question": "Which of the following best describes the picture?",
+			"questionImgUrl": "img_traffic_15",
+			"choices": [
+				"Vehicles more than 2 meters wide cannot enter",
+				"Vehicles more than 2 meters tall cannot enter",
+				"Vehicles 2 meters wide cannot enter"
+			],
+			"correctAnswerIndex": 0,
+			"isTagalog": false
+		},
+		{
+			"id": 166,
+			"question": "What should you do when you see this sign?",
+			"questionImgUrl": "img_traffic_16",
+			"choices": [
+				"You must give right-of-way",
+				"You have the right-of-way",
+				"Early warning device"
+			],
+			"correctAnswerIndex": 0,
+			"isTagalog": false
+		},
+		{
+			"id": 167,
+			"question": "Which of the following best describes the picture?",
+			"questionImgUrl": "img_traffic_17",
+			"choices": [
+				"Dangerous curve on the left side",
+				"Dangerous curve on the right side",
+				"Intersection warning"
+			],
+			"correctAnswerIndex": 0,
+			"isTagalog": false
+		},
+		{
+			"id": 168,
+			"question": "Which of the following best describes the picture?",
+			"questionImgUrl": "img_traffic_18",
+			"choices": [
+				"Wide road ahead",
+				"Narrow road ahead",
+				"Slippery road"
+			],
+			"correctAnswerIndex": 1,
+			"isTagalog": false
+		},
+		{
+			"id": 169,
+			"question": "What does this sign indicate?",
+			"questionImgUrl": "img_traffic_19",
+			"choices": [
+				"You may travel beyond 30 kph",
+				"You must limit your speed to 30 kph",
+				"The distance to the next town is 30 kph"
+			],
+			"correctAnswerIndex": 1,
+			"isTagalog": false
+		},
+		{
+			"id": 170,
+			"question": "Which of the following best describes the picture?",
+			"questionImgUrl": "img_traffic_20",
+			"choices": [
+				"Left turn only",
+				"One way to left",
+				"Exit to left"
+			],
+			"correctAnswerIndex": 0,
+			"isTagalog": false
+		},
+		{
+			"id": 171,
+			"question": "Which of the following best describes the picture?",
+			"questionImgUrl": "img_traffic_21",
+			"choices": [
+				"Bus cannot enter",
+				"Vehicles with trailer cannot enter",
+				"Cars cannot enter"
+			],
+			"correctAnswerIndex": 1,
+			"isTagalog": false
+		},
+		{
+			"id": 172,
+			"question": "What does this sign indicate?",
+			"questionImgUrl": "img_traffic_22",
+			"choices": [
+				"School Zone sign",
+				"Pedestrian Crossing",
+				"Playground"
+			],
+			"correctAnswerIndex": 1,
+			"isTagalog": false
+		},
+		{
+			"id": 173,
+			"question": "When the traffic light is steady green and steady left/right arrow:",
+			"questionImgUrl": "img_traffic_23",
+			"choices": [
+				"Vehicles can go straight or vehicles on the right /left can make a left/right turn",
+				"Vehicles can go left or right but not straight",
+				"Vehicles can go straight but not left or right"
+			],
+			"correctAnswerIndex": 0,
+			"isTagalog": false
+		},
+		{
+			"id": 174,
+			"question": "Which of the following best describes the picture?",
+			"questionImgUrl": "img_traffic_24",
+			"choices": [
+				"Slippery road",
+				"Steep road",
+				"Broken road"
+			],
+			"correctAnswerIndex": 0,
+			"isTagalog": false
+		},
+		{
+			"id": 175,
+			"question": "What does this sign indicate?",
+			"questionImgUrl": "img_traffic_25",
+			"choices": [
+				"Hospital zone",
+				"Intersection",
+				"Highway"
+			],
+			"correctAnswerIndex": 0,
+			"isTagalog": false
+		},
+		{
+			"id": 176,
+			"question": "Which of the following best describes the picture?",
+			"questionImgUrl": "img_traffic_26",
+			"choices": [
+				"Train track warning",
+				"First aid station",
+				"Intersection warning"
+			],
+			"correctAnswerIndex": 2,
+			"isTagalog": false
+		},
+		{
+			"id": 177,
+			"question": "Which of the following best describes the picture?",
+			"questionImgUrl": "img_traffic_27",
+			"choices": [
+				"Broken road",
+				"Steep road",
+				"River"
+			],
+			"correctAnswerIndex": 2,
+			"isTagalog": false
+		},
+		{
+			"id": 178,
+			"question": "What does this sign indicate?",
+			"questionImgUrl": "img_traffic_28",
+			"choices": [
+				"Motorcycle lane",
+				"Bike lane",
+				"Sidewalk"
+			],
+			"correctAnswerIndex": 1,
+			"isTagalog": false
+		},
+		{
+			"id": 179,
+			"question": "Which of the following best describes the picture?",
+			"questionImgUrl": "img_traffic_29",
+			"choices": [
+				"Animals cannot cross",
+				"Animal cage",
+				"Animal crossing"
+			],
+			"correctAnswerIndex": 0,
+			"isTagalog": false
+		},
+		{
+			"id": 180,
+			"question": "What does this sign indicate?",
+			"questionImgUrl": "img_traffic_30",
+			"choices": [
+				"Divided highway",
+				"Two-way traffic",
+				"Highway divides into two"
+			],
+			"correctAnswerIndex": 1,
+			"isTagalog": false
+		},
+		{
+			"id": 181,
+			"question": "Which of the following best describes the picture?",
+			"questionImgUrl": "img_traffic_31",
+			"choices": [
+				"No overtaking",
+				"No parking",
+				"Bus stop"
+			],
+			"correctAnswerIndex": 0,
+			"isTagalog": false
+		},
+		{
+			"id": 182,
+			"question": "Which of the following best describes the picture?",
+			"questionImgUrl": "img_traffic_32",
+			"choices": [
+				"Merging traffic approaching an intersection",
+				"Approaching an intersection with a road on the side",
+				"Approaching an intersection"
+			],
+			"correctAnswerIndex": 0,
+			"isTagalog": false
+		},
+		{
+			"id": 183,
+			"question": "What does this sign indicate?",
+			"questionImgUrl": "img_traffic_33",
+			"choices": [
+				"Traffic signal ahead",
+				"Railway crossing ahead",
+				"Stop sign 150 meters ahead"
+			],
+			"correctAnswerIndex": 0,
+			"isTagalog": false
+		},
+		{
+			"id": 184,
+			"question": "Which of the following best describes the picture?",
+			"questionImgUrl": "img_traffic_34",
+			"choices": [
+				"Train track",
+				"School zone",
+				"Hospital zone"
+			],
+			"correctAnswerIndex": 1,
+			"isTagalog": false
+		},
+		{
+			"id": 185,
+			"question": "What does this sign indicate?",
+			"questionImgUrl": "img_traffic_35",
+			"choices": [
+				"Stay on the extreme right side of the highway",
+				"Road widens ahead",
+				"Winding road"
+			],
+			"correctAnswerIndex": 0,
+			"isTagalog": false
+		},
+		{
+			"id": 186,
+			"question": "Which of the following best describes the picture?",
+			"questionImgUrl": "img_traffic_36",
+			"choices": [
+				"One way",
+				"No left turn",
+				"All vehicles no entry"
+			],
+			"correctAnswerIndex": 2,
+			"isTagalog": false
+		},
+		{
+			"id": 187,
+			"question": "What does this sign indicate?",
+			"questionImgUrl": "img_traffic_37",
+			"choices": [
+				"You are approaching a rotunda (roundabout)",
+				"You are approaching Rizal monument",
+				"You are about to enter an intersection"
+			],
+			"correctAnswerIndex": 0,
+			"isTagalog": false
+		},
+		{
+			"id": 188,
+			"question": "What does this sign indicate?",
+			"questionImgUrl": "img_traffic_38",
+			"choices": [
+				"There is a winding road ahead",
+				"Road widens ahead",
+				"Barricade ahead, prepare detour"
+			],
+			"correctAnswerIndex": 0,
+			"isTagalog": false
+		},
+		{
+			"id": 189,
+			"question": "Which of the following best describes the picture?",
+			"questionImgUrl": "img_traffic_39",
+			"choices": [
+				"The distance to the next intersection is 60 km",
+				"Given speed limit",
+				"Given length of the vehicle"
+			],
+			"correctAnswerIndex": 1,
+			"isTagalog": false
+		},
+		{
+			"id": 190,
+			"question": "Which of the following best describes the picture?",
+			"questionImgUrl": "img_traffic_40",
+			"choices": [
+				"Steep gradient",
+				"Steep uphill gradient",
+				"Steep downhill gradient"
+			],
+			"correctAnswerIndex": 1,
+			"isTagalog": false
+		},
+		{
+			"id": 191,
+			"question": "Which of the following best describes the picture?",
+			"questionImgUrl": "img_traffic_41",
+			"choices": [
+				"Pedestrians are not allowed to cross the pedestrian lanes",
+				"Pedestrians should cross in a hurry",
+				"Pedestrians are allowed to cross"
+			],
+			"correctAnswerIndex": 0,
+			"isTagalog": false
+		},
+		{
+			"id": 192,
+			"question": "Which of the following best describes the picture?",
+			"questionImgUrl": "img_traffic_42",
+			"choices": [
+				"No entry",
+				"No parking",
+				"No use of horn"
+			],
+			"correctAnswerIndex": 1,
+			"isTagalog": false
+		},
+		{
+			"id": 193,
+			"question": "Which of the following best describes the picture?",
+			"questionImgUrl": "img_traffic_43",
+			"choices": [
+				"Bus no entry",
+				"Jeepney no entry",
+				"Car no entry"
+			],
+			"correctAnswerIndex": 1,
+			"isTagalog": false
+		},
+		{
+			"id": 194,
+			"question": "A steady red cross means:",
+			"questionImgUrl": "img_traffic_44",
+			"choices": [
+				"You cannot drive on this lane",
+				"Proceed with caution",
+				"You can drive on this lane with caution"
+			],
+			"correctAnswerIndex": 0,
+			"isTagalog": false
+		},
+		{
+			"id": 195,
+			"question": "Which of the following best describes the picture?",
+			"questionImgUrl": "img_traffic_45",
+			"choices": [
+				"Beware of falling rocks",
+				"Broken road",
+				"Steep road"
+			],
+			"correctAnswerIndex": 0,
+			"isTagalog": false
+		},
+		{
+			"id": 196,
+			"question": "Which of the following best describes the picture?",
+			"questionImgUrl": "img_traffic_46",
+			"choices": [
+				"Airport",
+				"No flying aircrafts are allowed",
+				"Warning for low flying planes, aircraft and jets"
+			],
+			"correctAnswerIndex": 2,
+			"isTagalog": false
+		},
+		{
+			"id": 197,
+			"question": "Which of the following best describes the picture?",
+			"questionImgUrl": "img_traffic_47",
+			"choices": [
+				"Warning Stop and give way ahead",
+				"No stopping",
+				"Stop your vehicle after crossing"
+			],
+			"correctAnswerIndex": 0,
+			"isTagalog": false
+		},
+		{
+			"id": 198,
+			"question": "Which of the following best describes the picture?",
+			"questionImgUrl": "img_traffic_48",
+			"choices": [
+				"Only trains are allowed to cross",
+				"Railroad crossing ahead with barriers",
+				"Train station"
+			],
+			"correctAnswerIndex": 1,
+			"isTagalog": false
+		},
+		{
+			"id": 199,
+			"question": "Which of the following best describes the picture?",
+			"questionImgUrl": "img_traffic_49",
+			"choices": [
+				"Right turn only",
+				"No U-turn",
+				"Warning U-turn"
+			],
+			"correctAnswerIndex": 2,
+			"isTagalog": false
+		},
+		{
+			"id": 200,
+			"question": "Which of the following best describes the picture?",
+			"questionImgUrl": "img_traffic_50",
+			"choices": [
+				"Warning for a narrowing",
+				"Small vehicles only are allowed to enter",
+				"Big vehivles only are allowed to enter"
+			],
+			"correctAnswerIndex": 0,
+			"isTagalog": false
 		}
 	]
 }
