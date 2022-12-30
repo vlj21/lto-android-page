@@ -1,41 +1,1805 @@
 {
-    "resultCount": 1,
-    "results": [
-        {
-            "id": 1,
-            "question": "What is the meaning of green arrow traffic light?",
-            "questionImgUrl": "",
-            "choices": [
-                "Allowing vehicles to go right or left",
-                "Pedestrians can cross",
-                "It is prohibited to enter on the direction of the arrow"
-            ],
-            "correctAnswerIndex": 0,
-            "isTagalog": false
-        },
-        {
-            "id": 2,
-            "question": "Broken yellow line on the road means:",
-            "questionImgUrl": "",
-            "choices": [
-                "It is prohibited to overtake on the left or right side",
-                "You are allowed to overtake on the right side",
-                "You are allowed to overtake on the left side"
-            ],
-            "correctAnswerIndex": 2,
-            "isTagalog": false
-        },
-        {
-            "id": 3,
-            "question": "Broken yellow line on the road means:",
-            "questionImgUrl": "https://vlj21.github.io/lto-android-page/src/question_road_construction.png",
-            "choices": [
-                "Road under construction",
-                "Bumpy road",
-                "Slippery road"
-            ],
-            "correctAnswerIndex": 0,
-            "isTagalog": false
-        }
-    ]
+	"resultCount": 1,
+	"results": [
+		{
+			"id": 1,
+			"question": "The necessary distance in between you and a vehicle you are following should be:",
+			"questionImgUrl": "",
+			"choices": [
+				"The same length as a full vehicle",
+				"The same length as three full vehicles",
+				"The same length as two full vehicles"
+			],
+			"correctAnswerIndex": 0,
+			"isTagalog": false
+		},
+		{
+			"id": 2,
+			"question": "Broken yellow line on the road means:",
+			"questionImgUrl": "",
+			"choices": [
+				"It is prohibited to overtake on the left or right side",
+				"You are allowed to overtake on the right side",
+				"You are allowed to overtake on the left side"
+			],
+			"correctAnswerIndex": 2,
+			"isTagalog": false
+		},
+		{
+			"id": 3,
+			"question": "A safe speed to drive your car under adverse conditions depends on:",
+			"questionImgUrl": "",
+			"choices": [
+				"Authorized speed limit",
+				"Your driving style",
+				"The vehicle type"
+			],
+			"correctAnswerIndex": 0,
+			"isTagalog": false
+		},
+		{
+			"id": 4,
+			"question": "The vehicle is parked if:",
+			"questionImgUrl": "",
+			"choices": [
+				"The vehicle is not moving while loading passengers",
+				"The vehicle is not moving while unloading passengers",
+				"The vehicle is stationary with the engine turned off"
+			],
+			"correctAnswerIndex": 2,
+			"isTagalog": false
+		},
+		{
+			"id": 5,
+			"question": "A person who drives while under influence of alcohol or drugs is punishable by law with:",
+			"questionImgUrl": "",
+			"choices": [
+				"Fines and imprisonment",
+				"Suspension of license",
+				"All answers are correct"
+			],
+			"correctAnswerIndex": 2,
+			"isTagalog": false
+		},
+		{
+			"id": 6,
+			"question": "When parking uphill and parallel to the sidewalk, you should turn the wheel:",
+			"questionImgUrl": "",
+			"choices": [
+				"Parallel with the sidewalk curb",
+				"Away from the sidewalk curb",
+				"To the sidewalk curb"
+			],
+			"correctAnswerIndex": 1,
+			"isTagalog": false
+		},
+		{
+			"id": 7,
+			"question": "While driving, you should look at your side and rear view mirror:",
+			"questionImgUrl": "",
+			"choices": [
+				"If you want",
+				"Quickly",
+				"Not less than once per one minute"
+			],
+			"correctAnswerIndex": 1,
+			"isTagalog": false
+		},
+		{
+			"id": 8,
+			"question": "Before leaving the parking area, you should:",
+			"questionImgUrl": "",
+			"choices": [
+				"Immediately go",
+				"Look around first",
+				"Sound your horn"
+			],
+			"correctAnswerIndex": 1,
+			"isTagalog": false
+		},
+		{
+			"id": 9,
+			"question": "You can overtake in the right side of your vehicle if:",
+			"questionImgUrl": "",
+			"choices": [
+				"The road has two or more lanes going in one direction",
+				"The road is two-way",
+				"The sidewalk is wide"
+			],
+			"correctAnswerIndex": 0,
+			"isTagalog": false
+		},
+		{
+			"id": 10,
+			"question": "What should you prepare for a long trip?",
+			"questionImgUrl": "",
+			"choices": [
+				"All answers are correct",
+				"Plan your route and make sure the vehicle is running in good condition",
+				"Prepare the necessary tools that can be used to repair the vehicle"
+			],
+			"correctAnswerIndex": 0,
+			"isTagalog": false
+		},
+		{
+			"id": 11,
+			"question": "What is the meaning of blinking red traffic light?",
+			"questionImgUrl": "",
+			"choices": [
+				"Wait for the green signal",
+				"Slow down and proceed if there is no danger ahead",
+				"Stop and proceed if there is no danger ahead"
+			],
+			"correctAnswerIndex": 2,
+			"isTagalog": false
+		},
+		{
+			"id": 12,
+			"question": "What should you do before turning left or right?",
+			"questionImgUrl": "",
+			"choices": [
+				"Give signal not less than 30 meters before turning",
+				"Ignore giving a signal",
+				"Immediately turn and sound your horn"
+			],
+			"correctAnswerIndex": 0,
+			"isTagalog": false
+		},
+		{
+			"id": 13,
+			"question": "After overtaking, you want to safely go back to the lane where you where you came from, you should:",
+			"questionImgUrl": "",
+			"choices": [
+				"Stop",
+				"Look at the vehicle you have overtaken by turning your head",
+				"Use the rear view mirror to check the vehicle you have overtaken"
+			],
+			"correctAnswerIndex": 2,
+			"isTagalog": false
+		},
+		{
+			"id": 14,
+			"question": "While changing lanes, you should give signal, check your rear view mirror and:",
+			"questionImgUrl": "",
+			"choices": [
+				"Turn on the vehicle’s headlight",
+				"Watch out for oncoming vehicles",
+				"Sound your horn"
+			],
+			"correctAnswerIndex": 1,
+			"isTagalog": false
+		},
+		{
+			"id": 15,
+			"question": "You can overtake in a highway if it has two lanes with:",
+			"questionImgUrl": "",
+			"choices": [
+				"Broken yellow line",
+				"Continuous yellow line",
+				"Continuous white line"
+			],
+			"correctAnswerIndex": 0,
+			"isTagalog": false
+		},
+		{
+			"id": 16,
+			"question": "The minimum age in the application for Non-Professional Driver’s License is:",
+			"questionImgUrl": "",
+			"choices": [
+				"17 years old",
+				"18 years old",
+				"16 years old"
+			],
+			"correctAnswerIndex": 0,
+			"isTagalog": false
+		},
+		{
+			"id": 17,
+			"question": "In an intersection with a STOP sign, you should:",
+			"questionImgUrl": "",
+			"choices": [
+				"Give way to vehicles going from left and right, proceed if there is no danger",
+				"Stop and proceed if there is no danger",
+				"Slow down and proceed if there is no danger"
+			],
+			"correctAnswerIndex": 1,
+			"isTagalog": false
+		},
+		{
+			"id": 18,
+			"question": "Obtaining a driver’s license is:",
+			"questionImgUrl": "",
+			"choices": [
+				"An honor",
+				"A privilege",
+				"A right"
+			],
+			"correctAnswerIndex": 1,
+			"isTagalog": false
+		},
+		{
+			"id": 19,
+			"question": "In a roundabout (rotunda), which has road rights?",
+			"questionImgUrl": "",
+			"choices": [
+				"The vehicles in the roundabout",
+				"The vehicles approaching the roundabout",
+				"The vehicles facing the green light"
+			],
+			"correctAnswerIndex": 0,
+			"isTagalog": false
+		},
+		{
+			"id": 20,
+			"question": "The safest response even if you have rights on the road is:",
+			"questionImgUrl": "",
+			"choices": [
+				"Force your rights",
+				"Don’t force your rights",
+				"Sound your horn"
+			],
+			"correctAnswerIndex": 1,
+			"isTagalog": false
+		},
+		{
+			"id": 21,
+			"question": "If a vehicle in front of you has a high beam light which is blinding your vision, what should you do?",
+			"questionImgUrl": "",
+			"choices": [
+				"Switch your headlight on high also",
+				"Do not look at glaring light, quickly look on the right side of the road",
+				"Stare at the glaring light"
+			],
+			"correctAnswerIndex": 1,
+			"isTagalog": false
+		},
+		{
+			"id": 22,
+			"question": "Having a license means you can drive:",
+			"questionImgUrl": "",
+			"choices": [
+				"Public utility vehicle only",
+				"Vehicles allowed indicated in your license",
+				"All types of vehicle"
+			],
+			"correctAnswerIndex": 1,
+			"isTagalog": false
+		},
+		{
+			"id": 23,
+			"question": "If you are approaching a curve, what should you do?",
+			"questionImgUrl": "",
+			"choices": [
+				"Abruptly push the brake",
+				"Slow down",
+				"Speed up"
+			],
+			"correctAnswerIndex": 1,
+			"isTagalog": false
+		},
+		{
+			"id": 24,
+			"question": "What is the meaning of a triangle traffic sign with red border color?",
+			"questionImgUrl": "",
+			"choices": [
+				"Information sign",
+				"Reminder sign",
+				"Warning sign"
+			],
+			"correctAnswerIndex": 2,
+			"isTagalog": false
+		},
+		{
+			"id": 25,
+			"question": "Not following road and traffic rules:",
+			"questionImgUrl": "",
+			"choices": [
+				"Proves that you are a good driver",
+				"May engage you in an accident",
+				" Saves fuel"
+			],
+			"correctAnswerIndex": 1,
+			"isTagalog": false
+		},
+		{
+			"id": 26,
+			"question": "What is the meaning of green traffic light?",
+			"questionImgUrl": "",
+			"choices": [
+				"You are allowed to proceed by slowing down",
+				"Go signal for the vehicle",
+				"Stop at the given line"
+			],
+			"correctAnswerIndex": 1,
+			"isTagalog": false
+		},
+		{
+			"id": 27,
+			"question": "What is the meaning of a circle, octagon or inverted triangle traffic sign with red border color?",
+			"questionImgUrl": "",
+			"choices": [
+				"Giving direction ",
+				"Warning sign",
+				"Regulatory sign"
+			],
+			"correctAnswerIndex": 2,
+			"isTagalog": false
+		},
+		{
+			"id": 28,
+			"question": "It is more dangerous to turn left than to turn right because:",
+			"questionImgUrl": "",
+			"choices": [
+				"Vehicles coming from left is faster",
+				"You have to be aware and cautious from vehicles coming from left or right sides of the road",
+				"The road has more lanes"
+			],
+			"correctAnswerIndex": 1,
+			"isTagalog": false
+		},
+		{
+			"id": 29,
+			"question": "You are not allowed to overtake at the foot bridge because:",
+			"questionImgUrl": "",
+			"choices": [
+				"People are crossing",
+				"The bridge is narrow",
+				"You cannot see oncoming vehicles"
+			],
+			"correctAnswerIndex": 2,
+			"isTagalog": false
+		},
+		{
+			"id": 30,
+			"question": "What is the meaning of blinking red traffic light?",
+			"questionImgUrl": "",
+			"choices": [
+				"Stop for a while and continue if there is no danger",
+				"Stop at the given line",
+				"Drive faster"
+			],
+			"correctAnswerIndex": 0,
+			"isTagalog": false
+		},
+		{
+			"id": 31,
+			"question": "What is the meaning of a square or rectangle traffic sign with blue and white color?",
+			"questionImgUrl": "",
+			"choices": [
+				"Giving direction",
+				"Warning sign",
+				"Information sign"
+			],
+			"correctAnswerIndex": 2,
+			"isTagalog": false
+		},
+		{
+			"id": 32,
+			"question": "What is the meaning of blinking yellow traffic light?",
+			"questionImgUrl": "",
+			"choices": [
+				"Wait for the green light",
+				"Stop and wait for the traffic light to change",
+				"Slow down and proceed if there is no danger"
+			],
+			"correctAnswerIndex": 2,
+			"isTagalog": false
+		},
+		{
+			"id": 33,
+			"question": "What is the meaning of continuous yellow line in the road?",
+			"questionImgUrl": "",
+			"choices": [
+				"All answers are correct",
+				"It is prohibited to overtake",
+				"You are allowed to overtake"
+			],
+			"correctAnswerIndex": 1,
+			"isTagalog": false
+		},
+		{
+			"id": 34,
+			"question": "According to the law, you are not allowed to drive fast, except when:",
+			"questionImgUrl": "",
+			"choices": [
+				"All answers are correct",
+				"There is no danger in the road",
+				"Speed is in accordance with the given speed limit"
+			],
+			"correctAnswerIndex": 0,
+			"isTagalog": false
+		},
+		{
+			"id": 35,
+			"question": "Double broken yellow line in the road means:",
+			"questionImgUrl": "",
+			"choices": [
+				"You are allowed to overtake on the left or right side if there is no danger",
+				"It is prohibited to overtake on the right side",
+				"It is prohibited to overtake on the left side"
+			],
+			"correctAnswerIndex": 0,
+			"isTagalog": false
+		},
+		{
+			"id": 36,
+			"question": "If you are involved in an accident, you should inform the nearest police station:",
+			"questionImgUrl": "",
+			"choices": [
+				"Within 72 hours",
+				"Immediately",
+				"Within 48 hours"
+			],
+			"correctAnswerIndex": 1,
+			"isTagalog": false
+		},
+		{
+			"id": 37,
+			"question": "If the driver of the vehicle in front of you is stretching his left arm out and gives you a hand signal pointing to the left, he will:",
+			"questionImgUrl": "",
+			"choices": [
+				"Turn left",
+				"Stop",
+				"Turn right"
+			],
+			"correctAnswerIndex": 0,
+			"isTagalog": false
+		},
+		{
+			"id": 38,
+			"question": "If the brake light of the vehicle in front of you lights up, you should:",
+			"questionImgUrl": "",
+			"choices": [
+				"Prepare to push the brake",
+				"Depress the horn",
+				"Turn right or left"
+			],
+			"correctAnswerIndex": 0,
+			"isTagalog": false
+		},
+		{
+			"id": 39,
+			"question": "What is the meaning of yellow traffic light?",
+			"questionImgUrl": "",
+			"choices": [
+				"Stop",
+				"Prepare to stop, red traffic light is about to light up",
+				"You can go, but slow down"
+			],
+			"correctAnswerIndex": 1,
+			"isTagalog": false
+		},
+		{
+			"id": 40,
+			"question": "What should you do if a policeman stops you?",
+			"questionImgUrl": "",
+			"choices": [
+				"Don’t mind the cop and drive faster",
+				"Stop and give the license and other papers for the vehicle if the policeman asks for it",
+				"Stop and argue with the policeman"
+			],
+			"correctAnswerIndex": 1,
+			"isTagalog": false
+		},
+		{
+			"id": 41,
+			"question": "Before changing lanes on a highway, you must give a signal for:",
+			"questionImgUrl": "",
+			"choices": [
+				"Five minustes before doing it",
+				"Ten seconds before doing it",
+				"One minute before doing it"
+			],
+			"correctAnswerIndex": 1,
+			"isTagalog": false
+		},
+		{
+			"id": 42,
+			"question": "The safest speed of a vehicle is according to:",
+			"questionImgUrl": "",
+			"choices": [
+				"Road and weather conditions",
+				"Capability of the driver",
+				"Condition of the vehicle"
+			],
+			"correctAnswerIndex": 0,
+			"isTagalog": false
+		},
+		{
+			"id": 43,
+			"question": "What is the meaning of green arrow traffic light?",
+			"questionImgUrl": "",
+			"choices": [
+				"Allowing vehicles to go right or left",
+				"It is prohibited to enter on the direction of the arrow",
+				"Pedestrians can cross"
+			],
+			"correctAnswerIndex": 0,
+			"isTagalog": false
+		},
+		{
+			"id": 44,
+			"question": "A continuous parallel double yellow line on the road means:",
+			"questionImgUrl": "",
+			"choices": [
+				"It is dangerous to overtake",
+				"You are allowed to overtake on the right side",
+				"You are allowed to overtake on the left side"
+			],
+			"correctAnswerIndex": 0,
+			"isTagalog": false
+		},
+		{
+			"id": 45,
+			"question": "The vehicle horn is used for:",
+			"questionImgUrl": "",
+			"choices": [
+				"Making beautiful sounds",
+				"Creating noise",
+				"Giving warning to avoid accident"
+			],
+			"correctAnswerIndex": 2,
+			"isTagalog": false
+		},
+		{
+			"id": 46,
+			"question": "The minimum age for the applicant of Professional Driver’s License is:",
+			"questionImgUrl": "",
+			"choices": [
+				"18 years old",
+				"21 years old",
+				"17 years old"
+			],
+			"correctAnswerIndex": 0,
+			"isTagalog": false
+		},
+		{
+			"id": 47,
+			"question": "If the driver of a vehicle in front of you is giving a hand signal by pointing his left hand upwards, he will surely:",
+			"questionImgUrl": "",
+			"choices": [
+				"Turn right",
+				"Turn left",
+				"Stop"
+			],
+			"correctAnswerIndex": 0,
+			"isTagalog": false
+		},
+		{
+			"id": 48,
+			"question": "What is the meaning of green traffic light?",
+			"questionImgUrl": "",
+			"choices": [
+				"The vehicle should slow down",
+				"The vehicle should not stop",
+				"The vehicle should stop"
+			],
+			"correctAnswerIndex": 1,
+			"isTagalog": false
+		},
+		{
+			"id": 49,
+			"question": "What is the meaning of yellow arrow traffic light?",
+			"questionImgUrl": "",
+			"choices": [
+				"Giving signal for right or left direction",
+				"Allowing vehicles to go left, right or straight",
+				"The red arrow traffic light is about to light up"
+			],
+			"correctAnswerIndex": 2,
+			"isTagalog": false
+		},
+		{
+			"id": 50,
+			"question": "A driver should give a signal when turning left or right on the road intersection in no less than:",
+			"questionImgUrl": "",
+			"choices": [
+				"30 meters",
+				"15 meters",
+				"60 meters"
+			],
+			"correctAnswerIndex": 0,
+			"isTagalog": false
+		},
+		{
+			"id": 51,
+			"question": "A driver is considered a Professional driver if:",
+			"questionImgUrl": "",
+			"choices": [
+				"He/she is a driving expert",
+				"He/she can drive any vehicle",
+				"He/she is paid or earns money while driving a private or public vehicle"
+			],
+			"correctAnswerIndex": 2,
+			"isTagalog": false
+		},
+		{
+			"id": 52,
+			"question": "What should you do to combat fatigue and sleepiness during long road trip?",
+			"questionImgUrl": "",
+			"choices": [
+				"Drink alcohol before driving",
+				"Drink medicine that prevents sleepiness",
+				"Stop every once in a while and rest"
+			],
+			"correctAnswerIndex": 2,
+			"isTagalog": false
+		},
+		{
+			"id": 53,
+			"question": "There are two incoming vehicles on both sides of the street of an intersection with no traffic light, which vehicle should give way?",
+			"questionImgUrl": "",
+			"choices": [
+				"The first one to arrive",
+				"The first one to slow down",
+				"The last one to arrive"
+			],
+			"correctAnswerIndex": 2,
+			"isTagalog": false
+		},
+		{
+			"id": 54,
+			"question": "If the driver of a vehicle in front of you is giving a hand signal and is pointing his hand to the ground, he is:",
+			"questionImgUrl": "",
+			"choices": [
+				"Stopping",
+				"Turning right",
+				"Turning left"
+			],
+			"correctAnswerIndex": 0,
+			"isTagalog": false
+		},
+		{
+			"id": 55,
+			"question": "When riding a motorcycle and you would like to turn right, you should signal with:",
+			"questionImgUrl": "",
+			"choices": [
+				"Your right hand pointing to the right",
+				"Your left hand pointing upward",
+				"Your right hand pointing upward"
+			],
+			"correctAnswerIndex": 1,
+			"isTagalog": false
+		},
+		{
+			"id": 56,
+			"question": "If you are caught due to a violation, how many days are given for you to settle your case and get your license back?",
+			"questionImgUrl": "",
+			"choices": [
+				"10 days",
+				"30 days",
+				"15 days"
+			],
+			"correctAnswerIndex": 2,
+			"isTagalog": false
+		},
+		{
+			"id": 57,
+			"question": "If you want to drive slower than other vehicles on a highway you should stay on the:",
+			"questionImgUrl": "",
+			"choices": [
+				"Left lane",
+				"Right lane",
+				"Middle lane"
+			],
+			"correctAnswerIndex": 1,
+			"isTagalog": false
+		},
+		{
+			"id": 58,
+			"question": "What is the maximum speed of a vehicle entering a school zone?",
+			"questionImgUrl": "",
+			"choices": [
+				"20 kph",
+				"35 kph",
+				"30 kph"
+			],
+			"correctAnswerIndex": 0,
+			"isTagalog": false
+		},
+		{
+			"id": 59,
+			"question": "In which place you are prohibited to park?",
+			"questionImgUrl": "",
+			"choices": [
+				"In a pedestrian crossing",
+				"In a given parking space",
+				"In a certain place you want to go"
+			],
+			"correctAnswerIndex": 0,
+			"isTagalog": false
+		},
+		{
+			"id": 60,
+			"question": "Which place you should not overtake?",
+			"questionImgUrl": "",
+			"choices": [
+				"In an intersection",
+				"At the foot of the bridge",
+				"All answers are correct"
+			],
+			"correctAnswerIndex": 2,
+			"isTagalog": false
+		},
+		{
+			"id": 61,
+			"question": "Driving with a fake license is prohibited and punishable by:",
+			"questionImgUrl": "",
+			"choices": [
+				"Php 300.00",
+				"Php 1,500.00 and six months suspension in obtaining a license",
+				"Not more than six months imprisonment"
+			],
+			"correctAnswerIndex": 1,
+			"isTagalog": false
+		},
+		{
+			"id": 62,
+			"question": "What are white lines in the road for?",
+			"questionImgUrl": "",
+			"choices": [
+				"Separates traffic going in one direction",
+				"Divides lanes going in one direction",
+				"Sign that you can go left or right"
+			],
+			"correctAnswerIndex": 0,
+			"isTagalog": false
+		},
+		{
+			"id": 63,
+			"question": "Broken white line on the road means:",
+			"questionImgUrl": "",
+			"choices": [
+				"You are allowed to overtake on left or right side if there is no danger",
+				"It is prohibited to overtake on the left side",
+				"It is prohibited to overtake on the right side"
+			],
+			"correctAnswerIndex": 0,
+			"isTagalog": false
+		},
+		{
+			"id": 64,
+			"question": "When should a driver make a decision?",
+			"questionImgUrl": "",
+			"choices": [
+				"If he is a good driver",
+				"If there is a heavy traffic",
+				"While driving to anticipate other driver’s actions"
+			],
+			"correctAnswerIndex": 2,
+			"isTagalog": false
+		},
+		{
+			"id": 65,
+			"question": "A red flag or red light should be attached to any vehicle cargo that exceeds:",
+			"questionImgUrl": "",
+			"choices": [
+				"One meter from the back of the car",
+				"Three meters from the back of the car",
+				"Two meters from the back of the car"
+			],
+			"correctAnswerIndex": 0,
+			"isTagalog": false
+		},
+		{
+			"id": 66,
+			"question": "What is the meaning of an arrow painted on the road?",
+			"questionImgUrl": "",
+			"choices": [
+				"Slow down",
+				"You are allowed to change lanes",
+				"Follow the direction painted on the road"
+			],
+			"correctAnswerIndex": 2,
+			"isTagalog": false
+		},
+		{
+			"id": 67,
+			"question": "What should you do if the vehicle behind you wants to overtake your vehicle?",
+			"questionImgUrl": "",
+			"choices": [
+				"Slow down, stay on the right, and let it overtake",
+				"Sound your horn and let it pass",
+				"Stay on the right and stop"
+			],
+			"correctAnswerIndex": 0,
+			"isTagalog": false
+		},
+		{
+			"id": 68,
+			"question": "There are two incoming vehicles on the street of an intersection with no traffic light, which vehicle has the right of way?",
+			"questionImgUrl": "",
+			"choices": [
+				"The vehicle that slows down first",
+				"The vehicle from the left side",
+				"The vehicle from the right side"
+			],
+			"correctAnswerIndex": 2,
+			"isTagalog": false
+		},
+		{
+			"id": 69,
+			"question": "What should you do when an ambulance comes up behind you flashing red lights and/or sounding its siren?",
+			"questionImgUrl": "",
+			"choices": [
+				"Stop as soon as possible",
+				"Speed up so that you don’t hold the ambulance",
+				"Pull over to the right and slow down or even stop if necessary"
+			],
+			"correctAnswerIndex": 2,
+			"isTagalog": false
+		},
+		{
+			"id": 70,
+			"question": "You are not allowed to cross a lane with continuous yellow line on the road except if you are:",
+			"questionImgUrl": "",
+			"choices": [
+				"Turning left",
+				"Turning right",
+				"Changing lanes"
+			],
+			"correctAnswerIndex": 0,
+			"isTagalog": false
+		},
+		{
+			"id": 71,
+			"question": "A continuous single yellow line on the road means:",
+			"questionImgUrl": "",
+			"choices": [
+				"It is prohibited to overtake on the left side",
+				"It is prohibited to overtake on the right side",
+				"You can overtake on the left or right side"
+			],
+			"correctAnswerIndex": 0,
+			"isTagalog": false
+		},
+		{
+			"id": 72,
+			"question": "If you are going to drive slow on expressway, you should move on the:",
+			"questionImgUrl": "",
+			"choices": [
+				"Left lane",
+				"Right lane",
+				"Middle lane"
+			],
+			"correctAnswerIndex": 1,
+			"isTagalog": false
+		},
+		{
+			"id": 73,
+			"question": "What should you bring before driving a vehicle?",
+			"questionImgUrl": "",
+			"choices": [
+				"Driver’s license",
+				"Driver’s license, vehicle registration, and receipt of last LTO payment for the vehicle",
+				"Driver’s license and vehicle insurance paper"
+			],
+			"correctAnswerIndex": 1,
+			"isTagalog": false
+		},
+		{
+			"id": 74,
+			"question": "Driving without license is against the law and punishable with a fine of:",
+			"questionImgUrl": "",
+			"choices": [
+				"Php 1,500.00 and the vehicle will be impounded up to 10 days",
+				"Php 1,000.00",
+				"Php 1,500.00"
+			],
+			"correctAnswerIndex": 2,
+			"isTagalog": false
+		},
+		{
+			"id": 75,
+			"question": "What should a driver take action if his/her driver’s license was lost?",
+			"questionImgUrl": "",
+			"choices": [
+				"File an affidavit of loss and apply for a duplicate license",
+				"Apply for a duplicate license",
+				"Apply for a new license"
+			],
+			"correctAnswerIndex": 0,
+			"isTagalog": false
+		},
+		{
+			"id": 76,
+			"question": "Ang busina ay ginagamit upang:",
+			"questionImgUrl": "",
+			"choices": [
+				"Iparinig na maganda ang tunog ng busina",
+				"Makalikha ng ingay",
+				"Makapagbigay babala ng kaligtasan o pag-iingat upang maiwasan ang aksidente"
+			],
+			"correctAnswerIndex": 2,
+			"isTagalog": true
+		},
+		{
+			"id": 77,
+			"question": "Habang nagmamaneho, dapat kang tumingin sa side at rear view mirror nang:",
+			"questionImgUrl": "",
+			"choices": [
+				"Hanggang gusto mo",
+				"Mabilis/Madalian",
+				"Hindi kukulangin sa isang minuto"
+			],
+			"correctAnswerIndex": 1,
+			"isTagalog": true
+		},
+		{
+			"id": 78,
+			"question": "Ang mahuhuling lasing sa alak o gumagamit ng ipinagbabawal na gamot ay may parusang:",
+			"questionImgUrl": "",
+			"choices": [
+				"Pagkasuspinde ng lisensya",
+				"Multa at pagkabilanggo",
+				"Tama lahat ang sagot"
+			],
+			"correctAnswerIndex": 2,
+			"isTagalog": true
+		},
+		{
+			"id": 79,
+			"question": "Bago umalis sa paradahan, dapat mong:",
+			"questionImgUrl": "",
+			"choices": [
+				"Bumusina",
+				"Suriin ang paligid bago magpatakbo",
+				"Magpatakbo kaagad"
+			],
+			"correctAnswerIndex": 1,
+			"isTagalog": true
+		},
+		{
+			"id": 80,
+			"question": "Maaari kang lumusot (mag-overtake) sa kanang bahagi ng sasakyan kung:",
+			"questionImgUrl": "",
+			"choices": [
+				"Ang kalsada ay salubungang-daan (two-way)",
+				"Ang highway ay may dalawa o higit pang linya patungo sa isang direksyon",
+				"Malapad ang bangketa"
+			],
+			"correctAnswerIndex": 1,
+			"isTagalog": true
+		},
+		{
+			"id": 81,
+			"question": "Ang pagkakaroon ng lisensya ay isang:",
+			"questionImgUrl": "",
+			"choices": [
+				"Karapatan",
+				"Karangalan",
+				"Pribilehiyo"
+			],
+			"correctAnswerIndex": 2,
+			"isTagalog": true
+		},
+		{
+			"id": 82,
+			"question": "Sa naka-motorsiklo na may balak lumiko pakanan, ang dapat gamitin na senyas ay:",
+			"questionImgUrl": "",
+			"choices": [
+				"Kaliwang kamay na nakataas",
+				"Kanang kamay na diretsong nagtuturo pakanan",
+				"Kanang kamay na nakataas"
+			],
+			"correctAnswerIndex": 0,
+			"isTagalog": true
+		},
+		{
+			"id": 83,
+			"question": "Ang kailangang gulang sa isang aplikante sa pagkuha ng Professional Driver’s License ay:",
+			"questionImgUrl": "",
+			"choices": [
+				"21 taong gulang",
+				"18 taong gulang",
+				"17 taong gulang"
+			],
+			"correctAnswerIndex": 1,
+			"isTagalog": true
+		},
+		{
+			"id": 84,
+			"question": "Ano ang kahulugan ng palasong nakapinta sa kalsada?",
+			"questionImgUrl": "",
+			"choices": [
+				"Sundin ang direksyong itinuturo ng palaso",
+				"Magmarahan",
+				"Maaaring lumipat ng linya"
+			],
+			"correctAnswerIndex": 0,
+			"isTagalog": true
+		},
+		{
+			"id": 85,
+			"question": "Ang pinakaligtas na tulin ng isang sasakyan ay naaayon sa:",
+			"questionImgUrl": "",
+			"choices": [
+				"Kondisyon ng kalsada at panahon",
+				"Kakayahan ng sasakyan",
+				"Kakayahang magmaneho ng drayber"
+			],
+			"correctAnswerIndex": 0,
+			"isTagalog": true
+		},
+		{
+			"id": 86,
+			"question": "Kung umilaw ang “brake lights” ng sasakyang nasa unahan mo, dapat kang:",
+			"questionImgUrl": "",
+			"choices": [
+				"Humanda sa pagpreno",
+				"Bumusina",
+				"Lumiko sa kanan o kaliwa"
+			],
+			"correctAnswerIndex": 0,
+			"isTagalog": true
+		},
+		{
+			"id": 87,
+			"question": "Ang pulang bandera o pulang ilaw ay kailangan nakakabit sa anumang dala ng sasakyan na lalampas ng:",
+			"questionImgUrl": "",
+			"choices": [
+				"Tatlong metro mula sa likuran ng sasakyan",
+				"Isang metro mula sa likuran ng sasakyan",
+				"Dalawang metro mula sa likuran ng sasakyan"
+			],
+			"correctAnswerIndex": 1,
+			"isTagalog": true
+		},
+		{
+			"id": 88,
+			"question": "Kung masangkot sa isang sakuna, dapat itong ipagbigay-alam sa pinakamalapit na himpilan ng pulisya:",
+			"questionImgUrl": "",
+			"choices": [
+				"Kaagad-agad",
+				"Sa loob nang 72 oras",
+				"Sa loob nang 48 oras"
+			],
+			"correctAnswerIndex": 0,
+			"isTagalog": true
+		},
+		{
+			"id": 89,
+			"question": "Ang tamang gulang sa pagkuha ng lisensyang Non-Professional ay:",
+			"questionImgUrl": "",
+			"choices": [
+				"16 taong gulang",
+				"18 taong gulang",
+				"17 taong gulang"
+			],
+			"correctAnswerIndex": 2,
+			"isTagalog": true
+		},
+		{
+			"id": 90,
+			"question": "Ano ang dapat gawin kung pinahihinto ng pulis?",
+			"questionImgUrl": "",
+			"choices": [
+				"Huwag pansinin ang pulis at bilisan ang pagpapatakbo",
+				"Huminto at ibigay ang lisensya at ibang papeles ng sasakyan kung hinihingi",
+				"Huminto at makipagtalo sa pulis"
+			],
+			"correctAnswerIndex": 1,
+			"isTagalog": true
+		},
+		{
+			"id": 91,
+			"question": "Kung gusto mong magpalit ng lane sa highway, kailangang magsignal:",
+			"questionImgUrl": "",
+			"choices": [
+				"Limang minuto bago gawin ito",
+				"Sampung segundo bago gawin ito",
+				"Isang minuto bago gawin ito"
+			],
+			"correctAnswerIndex": 1,
+			"isTagalog": true
+		},
+		{
+			"id": 92,
+			"question": "Matapos kang lumampas (mag-overtake) at nais mong bumalik sa pinanggalingang linya nang ligtas, kailangan mong:",
+			"questionImgUrl": "",
+			"choices": [
+				"Tingan sa “rear view mirror” ang iyong nilagpasan",
+				"Lumingon sa nilagpasan",
+				"Huminto"
+			],
+			"correctAnswerIndex": 0,
+			"isTagalog": true
+		},
+		{
+			"id": 93,
+			"question": "Ano ang dapat gawin ng isang drayber kung ang lisensya niya ay nawala?",
+			"questionImgUrl": "",
+			"choices": [
+				"Mag-apply ng duplicate license",
+				"Mag-apply ng panibagong lisensya",
+				"Mag-file ng affidavit of loss at mag-apply ng duplicate license"
+			],
+			"correctAnswerIndex": 2,
+			"isTagalog": true
+		},
+		{
+			"id": 94,
+			"question": "Sa isang interseksyon na may STOP sign, dapat kang:",
+			"questionImgUrl": "",
+			"choices": [
+				"Magmarahan at magpatuloy kung walang panganib",
+				"Magbigay daan sa mga sasakyan mula sa kanan o kaliwa at magpatuloy kung walang panganib",
+				"Huminto at magpatuloy kung walang panganib"
+			],
+			"correctAnswerIndex": 2,
+			"isTagalog": true
+		},
+		{
+			"id": 95,
+			"question": "Ano ang kahulugan ng berdeng signal trapiko?",
+			"questionImgUrl": "",
+			"choices": [
+				"Huminto",
+				"Bagalan ang pagpapatakbo",
+				"Patakbuhin nang tuluy-tuloy ang sasakyan"
+			],
+			"correctAnswerIndex": 2,
+			"isTagalog": true
+		},
+		{
+			"id": 96,
+			"question": "Ang dilaw na linyang tuluy-tuloy ay palatandaan na:",
+			"questionImgUrl": "",
+			"choices": [
+				"Bawal ang paglusot sa kanan",
+				"Maaring lumusot sa kaliwa o kanan",
+				"Bawal ang paglusot sa kaliwa"
+			],
+			"correctAnswerIndex": 2,
+			"isTagalog": true
+		},
+		{
+			"id": 97,
+			"question": "Kung paparada ng paahon sa may bangketa, dapat mong ipihit ang gulong:",
+			"questionImgUrl": "",
+			"choices": [
+				"Kahit anong direksyon",
+				"Papuntang bangketa",
+				"Papalayo sa bangketa"
+			],
+			"correctAnswerIndex": 2,
+			"isTagalog": true
+		},
+		{
+			"id": 98,
+			"question": "Ano ang dapat mong gawin kung may ambulansya sa likod mo na may pulang ilaw at sirena?",
+			"questionImgUrl": "",
+			"choices": [
+				"Huminto kaagad",
+				"Dagdagan ang iyong bilis para hindi mo maabala ang ambulansya",
+				"Lumipat sa pinaka kanan ng kalsada at bumagal o huminto kung kailangan"
+			],
+			"correctAnswerIndex": 2,
+			"isTagalog": true
+		},
+		{
+			"id": 99,
+			"question": "Ang dalawang dilaw na linya na tuluy-tuloy ay palatandaan na:",
+			"questionImgUrl": "",
+			"choices": [
+				"Maaaring lumusot pakanan",
+				"Peligroso ang lumusot pakanan",
+				"Maaaring lumusot pakaliwa"
+			],
+			"correctAnswerIndex": 1,
+			"isTagalog": true
+		},
+		{
+			"id": 100,
+			"question": "Ano ang dapat mong ihanda kung malayo ang biyahe?",
+			"questionImgUrl": "",
+			"choices": [
+				"Maghanda ng kagamitang pangkumpuni ng sasakyan para handa kung masiraan ng sasakyan",
+				"Tama lahat ang sagot",
+				"Planuhin ang ruta at ikondisyon muna ang sasakyan"
+			],
+			"correctAnswerIndex": 1,
+			"isTagalog": true
+		},
+		{
+			"id": 101,
+			"question": "Kung ang drayber ng sasakyan na nasa unahan mo ay naglabas ng kaliwang kamay at inunat ito paitaas, nakakatiyak ka na siya ay:",
+			"questionImgUrl": "",
+			"choices": [
+				"Kakanan",
+				"Kakaliwa",
+				"Hihinto"
+			],
+			"correctAnswerIndex": 0,
+			"isTagalog": true
+		},
+		{
+			"id": 102,
+			"question": "Sa isang sangandaan/interseksyon na walang nakatalagang senyas trapiko, dalawang sasakyan ang dumarating, aling sasakyan ang may karapatan sa daan?",
+			"questionImgUrl": "",
+			"choices": [
+				"Ang sasakyang galing sa kanan",
+				"Ang sasakyang unang nagmarahan",
+				"Ang sasakyang galing sa kaliwa"
+			],
+			"correctAnswerIndex": 0,
+			"isTagalog": true
+		},
+		{
+			"id": 103,
+			"question": "Ano ang dapat mong dalhin kung magmamaneho ng sasakyan?",
+			"questionImgUrl": "",
+			"choices": [
+				"Lisensya, rehistro at resibo ng huling pinagbayaran ng sasakyan sa LTO",
+				"Lisensya",
+				"Lisensya at papel de seguro ng sasakyan"
+			],
+			"correctAnswerIndex": 0,
+			"isTagalog": true
+		},
+		{
+			"id": 104,
+			"question": "Ang lisensyang Non-Professional ay para lamang sa:",
+			"questionImgUrl": "",
+			"choices": [
+				"Anumang uri ng sasakyan",
+				"Mga pribadong sasakyan",
+				"Pampasaherong sasakyan"
+			],
+			"correctAnswerIndex": 0,
+			"isTagalog": true
+		},
+		{
+			"id": 105,
+			"question": "Hindi ka pinapayagang tumawid sa kabila ng buong dilaw na guhit, maliban kung ikaw ay:",
+			"questionImgUrl": "",
+			"choices": [
+				"Magpalit ng linya o daan",
+				"Palikong pakanan",
+				"Palikong pakaliwa"
+			],
+			"correctAnswerIndex": 2,
+			"isTagalog": true
+		},
+		{
+			"id": 106,
+			"question": "Ang sasakyan ay nakaparada (parked) kung:",
+			"questionImgUrl": "",
+			"choices": [
+				"Nakatigil nang matagal at nagbababa ng pasahero",
+				"Nakatigil nang matagal at nagsasakay ng pasahero",
+				"Nakatigil nang matagal at patay ang makina"
+			],
+			"correctAnswerIndex": 2,
+			"isTagalog": true
+		},
+		{
+			"id": 107,
+			"question": "Kung magpapatakbo ng mabagal sa expressway, dapat kang gumawi sa:",
+			"questionImgUrl": "",
+			"choices": [
+				"Gitnang linya",
+				"Kanang linya",
+				"Kaliwang linya"
+			],
+			"correctAnswerIndex": 1,
+			"isTagalog": true
+		},
+		{
+			"id": 108,
+			"question": "Ang pagmamaneho ng walang lisensya ay ipinagbabawal ng batas at may kaparusahang:",
+			"questionImgUrl": "",
+			"choices": [
+				"Php 1,000.00",
+				"Php 1,500.00 at pagka-impound ng sasakyan nang hindi hihigit sa 10 araw",
+				"Php 1,500.00"
+			],
+			"correctAnswerIndex": 2,
+			"isTagalog": true
+		},
+		{
+			"id": 109,
+			"question": "Kailangang magbigay ng senyas kung kakanan o kakaliwa ang drayber sa darating na interseksyon sa layong:",
+			"questionImgUrl": "",
+			"choices": [
+				"15 metro",
+				"60 metro",
+				"30 metro"
+			],
+			"correctAnswerIndex": 2,
+			"isTagalog": true
+		},
+		{
+			"id": 110,
+			"question": "Ano ang dapat mong gawin kung ang sasakyan sa likuran mo ay gustong lumusot (mag-overtake)?",
+			"questionImgUrl": "",
+			"choices": [
+				"Magmarahan, gumawi sa kanan at bayaan itong lumagpas",
+				"Gumawi sa kanan at huminto",
+				"Bumusina at hayaan itong lumagpas"
+			],
+			"correctAnswerIndex": 0,
+			"isTagalog": true
+		},
+		{
+			"id": 111,
+			"question": "Kung ang drayber ng sasakyan na nasa unahan mo ay naglabas ng kaliwang kamay na nakaturo sa kaliwa, siya ay:",
+			"questionImgUrl": "",
+			"choices": [
+				"Hihinto",
+				"Kakanan",
+				"Kakaliwa"
+			],
+			"correctAnswerIndex": 2,
+			"isTagalog": true
+		},
+		{
+			"id": 112,
+			"question": "Ano ang kahulugan ng dilaw na signal trapiko?",
+			"questionImgUrl": "",
+			"choices": [
+				"Humanda sa paghinto at malapit nang sumindi ang ilaw trapiko na kulay pula",
+				"Maaari kang tumuloy, bagalan lamang ang pagpapatakbo",
+				"Huminto"
+			],
+			"correctAnswerIndex": 0,
+			"isTagalog": true
+		},
+		{
+			"id": 113,
+			"question": "Ang dalawang dilaw na linya na putul-putol ay palatandaan na:",
+			"questionImgUrl": "",
+			"choices": [
+				"Maaaring lumusot ng pakanan o pakaliwa kung walang peligro",
+				"Ipinagbabawal ang paglusot sa kaliwa",
+				"Ipinagbabawal ang paglusot sa kanan"
+			],
+			"correctAnswerIndex": 0,
+			"isTagalog": true
+		},
+		{
+			"id": 114,
+			"question": "Sa paglipat-lipat ng linya, dapat kang sumenyas, tingnan ang rear view mirror at:",
+			"questionImgUrl": "",
+			"choices": [
+				"Tingnan kung may paparating na sasakyan",
+				"Bumusina",
+				"Sindihan ang headlight"
+			],
+			"correctAnswerIndex": 0,
+			"isTagalog": true
+		},
+		{
+			"id": 115,
+			"question": "Ang kailangang distansya sa pagitan ng sinusundang sasakyan ay:",
+			"questionImgUrl": "",
+			"choices": [
+				"Sinlaki ng sukat ng isang sasakyan",
+				"Sinlaki ng sukat ng tatlong sasakyan",
+				"Sinlaki ng sukat ng dalawang sasakyan"
+			],
+			"correctAnswerIndex": 0,
+			"isTagalog": true
+		},
+		{
+			"id": 116,
+			"question": "Kung ikaw ay nahuli, ilang araw ang palugit upang maayos ang iyong kaso at matubos ang lisensya?",
+			"questionImgUrl": "",
+			"choices": [
+				"10 araw",
+				"15 araw",
+				"30 araw"
+			],
+			"correctAnswerIndex": 1,
+			"isTagalog": true
+		},
+		{
+			"id": 117,
+			"question": "Anong dapat gawin bago lumiko sa kanan o kaliwa?",
+			"questionImgUrl": "",
+			"choices": [
+				"Biglang lumiko at bumusina",
+				"Magbigay ng hudyat o senyas na hindi kukulangin sa 30 metro ang layo",
+				"Ipagwalang-bahala ang hudyat"
+			],
+			"correctAnswerIndex": 1,
+			"isTagalog": true
+		},
+		{
+			"id": 118,
+			"question": "Ano ang kahulugan ng dilaw na palasong signal trapiko?",
+			"questionImgUrl": "",
+			"choices": [
+				"Nangangahulugan na ang pulang palaso na signal trapiko ay malapit nang sumindi",
+				"Naghuhudyat ng pakanan o pakaliwang direksyon",
+				"Nagpapahintulot sa mga sasakyan na kumanan, kumaliwa o dumiretso"
+			],
+			"correctAnswerIndex": 0,
+			"isTagalog": true
+		},
+		{
+			"id": 119,
+			"question": "Ano ang kahulugan ng patay-sinding kulay pulang ilaw trapiko?",
+			"questionImgUrl": "",
+			"choices": [
+				"Huminto at magpatuloy kung ligtas",
+				"Bagalan ang takbo at tumuloy nang maingat",
+				"Maghintay ng berdeng ilaw"
+			],
+			"correctAnswerIndex": 0,
+			"isTagalog": true
+		},
+		{
+			"id": 120,
+			"question": "Kung ang drayber ng sasakyang nasa iyong unahan ay naglabas ng kaniyang kaliwang kamay at itinuro ito sa lupa, siya ay:",
+			"questionImgUrl": "",
+			"choices": [
+				"Kakaliwa",
+				"Kakanan",
+				"Hihinto"
+			],
+			"correctAnswerIndex": 2,
+			"isTagalog": true
+		},
+		{
+			"id": 121,
+			"question": "Ang paggamit ng huwad (fake) na lisensya ay ipinagbabawal at may parusang:",
+			"questionImgUrl": "",
+			"choices": [
+				"Php 1,500.00 at anim na buwan na hindi makakakuha ng lisensya",
+				"Pagkabilanggo nang hindi hihigit sa anim na buwan",
+				"Php 300.00"
+			],
+			"correctAnswerIndex": 0,
+			"isTagalog": true
+		},
+		{
+			"id": 122,
+			"question": "Sa highway na may dalawang guhit, maaari kang lumusot (mag-overtake) kung sa iyong panig ay:",
+			"questionImgUrl": "",
+			"choices": [
+				"Putul-putol na dilaw na guhit",
+				"Tuluy-tuloy na puting guhit",
+				"Tuluy-tuloy na dilaw na guhit"
+			],
+			"correctAnswerIndex": 0,
+			"isTagalog": true
+		},
+		{
+			"id": 123,
+			"question": "Ano ang ibig sabihin ng berdeng palaso na signal trapiko?",
+			"questionImgUrl": "",
+			"choices": [
+				"Nagpapahintulot sa mga sasakyan na kumaliwa o kumanan",
+				"Nagpapahintulot sa pagtawid ng mga taong tatawid",
+				"Hindi pinapayagan ang pagpasok sa interseksyon na itinuturo ng palaso"
+			],
+			"correctAnswerIndex": 0,
+			"isTagalog": true
+		},
+		{
+			"id": 124,
+			"question": "Saang lugar hindi ka dapat lumusot (mag-overtake)?",
+			"questionImgUrl": "",
+			"choices": [
+				"Sa paanan ng tulay",
+				"Sa sangandaan o interseksyon",
+				"Tama lahat ang sagot"
+			],
+			"correctAnswerIndex": 2,
+			"isTagalog": true
+		},
+		{
+			"id": 125,
+			"question": "Ang hindi pagsunod sa ilaw trapiko ay:",
+			"questionImgUrl": "",
+			"choices": [
+				"Maaaring ikaw ay masangkot sa aksidente",
+				"Nagpapatunay na mahusay kang drayber",
+				"Nakakatipid sa gasolina"
+			],
+			"correctAnswerIndex": 0,
+			"isTagalog": true
+		},
+		{
+			"id": 126,
+			"question": "Mapanganib ang palikong kaliwa kaysa sa kanan sapagkat:",
+			"questionImgUrl": "",
+			"choices": [
+				"Mabilis ang sasakyang galing sa kaliwa",
+				"Maraming linya ang kalsada",
+				"Kailangang maging listo sa mga sasakyang nagmumula sa kaliwa o kanan"
+			],
+			"correctAnswerIndex": 2,
+			"isTagalog": true
+		},
+		{
+			"id": 127,
+			"question": "Ang pinakaligtas sa ultimatum kahit may karapatan sa daan ay:",
+			"questionImgUrl": "",
+			"choices": [
+				"Huwag ipilit ang karapatan",
+				"Laging ipilit ang karapatan",
+				"Bumusina"
+			],
+			"correctAnswerIndex": 0,
+			"isTagalog": true
+		},
+		{
+			"id": 128,
+			"question": "Sa rotonda, alin ang may karapatan sa daan?",
+			"questionImgUrl": "",
+			"choices": [
+				"Ang sasakyang papasok pa lamang sa rotonda",
+				"Ang sasakyang nasa paligid ng rotonda",
+				"Ang sasakyang nakaharap sa berdeng ilaw"
+			],
+			"correctAnswerIndex": 1,
+			"isTagalog": true
+		},
+		{
+			"id": 129,
+			"question": "Ayon sa batas, hindi ka maaaring magmaneho nang matulin, maliban kung:",
+			"questionImgUrl": "",
+			"choices": [
+				"Naaayon sa takdang bilis o tulin ang pagpapatakbo",
+				"Tama lahat ang sagot",
+				"Walang panganib"
+			],
+			"correctAnswerIndex": 1,
+			"isTagalog": true
+		},
+		{
+			"id": 130,
+			"question": "Ano ang takdang tulin ng isang sasakyan sa lugar ng paaralan?",
+			"questionImgUrl": "",
+			"choices": [
+				"20 kph",
+				"35 kph",
+				"30 kph"
+			],
+			"correctAnswerIndex": 0,
+			"isTagalog": true
+		},
+		{
+			"id": 131,
+			"question": "Hindi dapat lumusot (mag-overtake) sa paanan ng tulay sapagkat:",
+			"questionImgUrl": "",
+			"choices": [
+				"Hindi nakikita ang kasalubong na sasakyan",
+				"May tumatawid",
+				"Makipot ang daan"
+			],
+			"correctAnswerIndex": 0,
+			"isTagalog": true
+		},
+		{
+			"id": 132,
+			"question": "Ano ang kahulugan ng tuluy-tuloy na guhit na kulay dilaw?",
+			"questionImgUrl": "",
+			"choices": [
+				"Maaaring lumusot (mag-overtake)",
+				"Bawal lumusot",
+				"Tama lahat ang sagot"
+			],
+			"correctAnswerIndex": 1,
+			"isTagalog": true
+		},
+		{
+			"id": 133,
+			"question": "Kailan dapat magdesisyon ang isang drayber?",
+			"questionImgUrl": "",
+			"choices": [
+				"Kung buhul-buhol na ang trapiko",
+				"Kung mahusay siyang magmaneho",
+				"Habang siya ay nagmamaneho"
+			],
+			"correctAnswerIndex": 2,
+			"isTagalog": true
+		},
+		{
+			"id": 134,
+			"question": "Ano ang kahulugan ng patay-sinding dilaw na trapiko?",
+			"questionImgUrl": "",
+			"choices": [
+				"Huminto at hintaying magbago ang ilaw",
+				"Hintayin ang berdeng ilaw",
+				"Magmarahan at magpatuloy kung walang panganib"
+			],
+			"correctAnswerIndex": 2,
+			"isTagalog": true
+		},
+		{
+			"id": 135,
+			"question": "Ang isang may lisensya ay maaaring magmaneho ng:",
+			"questionImgUrl": "",
+			"choices": [
+				"Kahit anong uri ng sasakyan",
+				"Sasakyang nakasaad sa lisensya",
+				"Pampasaherong sasakyan lamang"
+			],
+			"correctAnswerIndex": 1,
+			"isTagalog": true
+		},
+		{
+			"id": 136,
+			"question": "Sa highway, kung nais mong magpatakbo ng mabagal kaysa sa iba, dapat kang gumawi sa:",
+			"questionImgUrl": "",
+			"choices": [
+				"Kaliwang linya",
+				"Kanang linya",
+				"Gitnang linya"
+			],
+			"correctAnswerIndex": 1,
+			"isTagalog": true
+		},
+		{
+			"id": 137,
+			"question": "Ang dilaw na linyang putul-putol ay palatandaan na:",
+			"questionImgUrl": "",
+			"choices": [
+				"Pinapayagan ang paglusot sa kaliwa",
+				"Ipinagbabawal ang paglusot sa kanan o kaliwa",
+				"Pinapayagan ang paglusot sa kanan"
+			],
+			"correctAnswerIndex": 0,
+			"isTagalog": true
+		},
+		{
+			"id": 138,
+			"question": "Kung ang nakasalubong mo ay may nakakasilaw na ilaw, ano ang dapat mong gawin?",
+			"questionImgUrl": "",
+			"choices": [
+				"Silawin din ang nakasalubong upang magbaba ng ilaw",
+				"Tumingin ng bahagya sa gawing kanan ng kalsada",
+				"Titigan ang nakakasilaw na ilaw"
+			],
+			"correctAnswerIndex": 1,
+			"isTagalog": true
+		},
+		{
+			"id": 139,
+			"question": "Ano ang kahulugan ng senyas trapiko na kulay pula na pabilog, octagon o baligtad na tatsulok?",
+			"questionImgUrl": "",
+			"choices": [
+				"Nagtatakda o nagbabawal",
+				"Nag-uutos ng direksyon",
+				"Nagbibigay babala"
+			],
+			"correctAnswerIndex": 0,
+			"isTagalog": true
+		},
+		{
+			"id": 140,
+			"question": "Ang isang drayber ay itinuturing na Professional kung:",
+			"questionImgUrl": "",
+			"choices": [
+				"Kaya niyang magmaneho ng kahit anong uri ng sasakyan",
+				"Siya ay inuupahan o binabayaran sa pagmamaneho ng sasakyang pribado o pampasahero",
+				"Siya ay bihasa na sa pagmamaneho"
+			],
+			"correctAnswerIndex": 1,
+			"isTagalog": true
+		},
+		{
+			"id": 141,
+			"question": "Ano ang ibig sabihin ng puting linya sa daan?",
+			"questionImgUrl": "",
+			"choices": [
+				"Naghahati sa mga “lanes” na tumatakbo sa isang direksyon",
+				"Naghihiwalay sa trapiko na tumakbo sa isang direksyon",
+				"Palatandaan na maaaring lumusot ng pakanan o pakaliwang direksyon"
+			],
+			"correctAnswerIndex": 1,
+			"isTagalog": true
+		},
+		{
+			"id": 142,
+			"question": "Ano ang kahulugan ng senyas trapikong kulay pula na tatsulok ang hugis?",
+			"questionImgUrl": "",
+			"choices": [
+				"Nagbibigay babala",
+				"Nagtatakda",
+				"Nagbibigay impormasyon/kaalaman"
+			],
+			"correctAnswerIndex": 0,
+			"isTagalog": true
+		},
+		{
+			"id": 143,
+			"question": "Kung parating ka sa isang kurbada, ano ang dapat mong gawin?",
+			"questionImgUrl": "",
+			"choices": [
+				"Magpreno nang bigla habang tumatakbo sa kurbada",
+				"Magmarahan/bagalan ang takbo bago dumating sa kurbada",
+				"Bilisan ang takbo habang nasa kurbada"
+			],
+			"correctAnswerIndex": 1,
+			"isTagalog": true
+		},
+		{
+			"id": 144,
+			"question": "Ang puting linyang putul-putol ay palatandaan na:",
+			"questionImgUrl": "",
+			"choices": [
+				"Ipinagbabawal ang paglusot sa kaliwa",
+				"Maaaring lumusot pakaliwa o pakanan kung walang peligro",
+				"Ipinagbabawal ang paglusot sa kanan"
+			],
+			"correctAnswerIndex": 1,
+			"isTagalog": true
+		},
+		{
+			"id": 145,
+			"question": "Ano ang kahulugan ng patay-sinding ilaw na pulang ilaw trapiko?",
+			"questionImgUrl": "",
+			"choices": [
+				"Huminto sa nakatakdang linya ",
+				"Bilisan ang pagpapatakbo",
+				"Huminto sandali at ituloy ang pagpapatakbo kung walang panganib "
+			],
+			"correctAnswerIndex": 2,
+			"isTagalog": true
+		},
+		{
+			"id": 146,
+			"question": "Ano ang kahulugan ng senyas trapiko na kulay asul at puti na parihaba o parisukat ang hugis?",
+			"questionImgUrl": "",
+			"choices": [
+				"Nagbibigay babala",
+				"Nag-uutos ng direksyon",
+				"Nagbibigay impormasyon/kaalaman"
+			],
+			"correctAnswerIndex": 2,
+			"isTagalog": true
+		},
+		{
+			"id": 147,
+			"question": "Ano ang kahulugan ng berdeng ilaw trapiko?",
+			"questionImgUrl": "",
+			"choices": [
+				"Maaari kang tumuloy, bagalan lamang ang takbo ",
+				"Senyas upang patakbuhin ang sasakyan",
+				"Huminto sa nakatakdang linya"
+			],
+			"correctAnswerIndex": 1,
+			"isTagalog": true
+		},
+		{
+			"id": 148,
+			"question": "Saang lugar hindi maaaring pumarada?",
+			"questionImgUrl": "",
+			"choices": [
+				"Sa nakatakdang paradahan",
+				"Sa isang patunguhang lugar",
+				"Sa lugar na tawiran ng tao"
+			],
+			"correctAnswerIndex": 2,
+			"isTagalog": true
+		},
+		{
+			"id": 149,
+			"question": "Sa isang sangandaan/interseksyon na walang senyas trapiko, dalawang sasakyan ang dumarating sa magkabilang kalye, aling sasakyan ang dapat magbigay?",
+			"questionImgUrl": "",
+			"choices": [
+				"Ang unang nagmarahan",
+				"Ang huling dumating",
+				"Ang unang dumating"
+			],
+			"correctAnswerIndex": 1,
+			"isTagalog": true
+		},
+		{
+			"id": 150,
+			"question": "Ano ang dapat mong gawin upang malabanan ang pagod at antok sa mahabang biyahe?",
+			"questionImgUrl": "",
+			"choices": [
+				"Huminto paminsan-minsan at magpahinga",
+				"Uminom ng alak bago magmaneho",
+				"Uminom ng gamot na pampapigil ng antok"
+			],
+			"correctAnswerIndex": 0,
+			"isTagalog": true
+		}
+	]
 }
