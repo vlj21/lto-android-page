@@ -1,45 +1,46 @@
 {
     "results": [
-    {
-        "id": 1,
-        "license": "Student Permit",
-        "requirements": [
-            "You must be at least 16 years old",
-            "Application for Permits and Licenses (APL) Form",
-            "1 photocopy and an original LTO-accredited medical certificate",
-            "Original and 1 photocopy of the Theoretical Driving Course (TDC) certificate",
-            "Original and 1 photocopy of a valid government ID",
-            "For minors, a notarized parental or guardian’s consent with a valid government ID",
-            "If employed, a Taxpayer’s Identification Number (TIN)"
-        ]
-    },
-    {
-        "id": 2,
-        "license": "Non-Professional License",
-        "requirements": [
-            "You must be at least 17 years old",
-            "Duly accomplished APL Form",
-            "1 photocopy and original LTO-accredited medical certificate",
-            "Original and 1 photocopy of Practical Driving Course (PDC)",
-            "Original valid student permit",
-            "For minors, a notarized parental or guardian's consent with a valid government ID",
-            "If employed, a Taxpayer’s Identification Number (TIN)"
-        ]
-    },
-    {
-        "id": 3,
-        "license": "Professional License",
-        "requirements": [
-            "You must be at least 18 years old",
-            "You must have no unsettled traffic violations",
-            "Duly accomplished Application for Permits and Licenses (APL) Form",
-            "1 photocopy and original LTO-accredited medical certificate",
-            "Original and 1 photocopy of Practical Driving Course (PDC)",
-            "Original valid student permit or non-professional driver's license",
-            "Original and photocopy of birth certificate",
-            "Valid NBI Clearance or Police Clearance",
-            "LTO Client ID",
-            "Taxpayer’s Identification Number (TIN)"
-        ]
-    }
+        {
+            "id": 1,
+            "license": "Student Permit",
+            "requirements": [
+                "You must be at least 16 years old",
+                "Application for Permits and Licenses (APL) Form",
+                "1 photocopy and an original LTO-accredited medical certificate",
+                "Original and 1 photocopy of the Theoretical Driving Course (TDC) certificate",
+                "Original and 1 photocopy of a valid government ID",
+                "For minors, a notarized parental or guardian’s consent with a valid government ID",
+                "If employed, a Taxpayer’s Identification Number (TIN)"
+            ]
+        },
+        {
+            "id": 2,
+            "license": "Non-Professional License",
+            "requirements": [
+                "You must be at least 17 years old",
+                "Duly accomplished APL Form",
+                "1 photocopy and original LTO-accredited medical certificate",
+                "Original and 1 photocopy of Practical Driving Course (PDC)",
+                "Original valid student permit",
+                "For minors, a notarized parental or guardian's consent with a valid government ID",
+                "If employed, a Taxpayer’s Identification Number (TIN)"
+            ]
+        },
+        {
+            "id": 3,
+            "license": "Professional License",
+            "requirements": [
+                "You must be at least 18 years old",
+                "You must have no unsettled traffic violations",
+                "Duly accomplished Application for Permits and Licenses (APL) Form",
+                "1 photocopy and original LTO-accredited medical certificate",
+                "Original and 1 photocopy of Practical Driving Course (PDC)",
+                "Original valid student permit or non-professional driver's license",
+                "Original and photocopy of birth certificate",
+                "Valid NBI Clearance or Police Clearance",
+                "LTO Client ID",
+                "Taxpayer’s Identification Number (TIN)"
+            ]
+        }
+    ]
 }
